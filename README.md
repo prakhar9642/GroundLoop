@@ -1,5 +1,4 @@
 # GroundLoop
-
 GroundLoop is a **bidirectional field-report-to-work-order bridge for campus facilities operations**. A student, guard, or maintenance worker can send a compact structured issue report; a coordinator can triage, assign, and resolve the resulting work order; and the reporter-facing acknowledgement always reflects the ticket's current state.
 
 ## MVP flow
